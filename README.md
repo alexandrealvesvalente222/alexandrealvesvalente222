@@ -7,7 +7,6 @@
 *Transformando dados públicos em decisões inteligentes para cidades e gestão municipal*
 
 [![GitHub followers](https://img.shields.io/github/followers/alexandrealvesvalente222?style=for-the-badge&logo=github&color=24292f)](https://github.com/alexandrealvesvalente222)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrealvesvalente)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrealvesvalente@gmail.com)
 
 </div>
