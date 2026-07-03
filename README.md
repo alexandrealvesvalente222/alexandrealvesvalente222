@@ -49,7 +49,7 @@ Atuo no ecossistema de **inovação governamental**, desenvolvendo sistemas para
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**FiscalIA 360**](https://github.com/alexandrealvesvalente222/fiscalia-360) | Plataforma enterprise de inteligência fiscal municipal com ML, cruzamento tributário e copilot IA | FastAPI · Next.js · PostgreSQL · Docker |
-| [**SIGMA**](https://github.com/alexandrealvesvalente222/sigma) | Inteligência fiscal para TCE — rastreabilidade de repasses e indicadores MROSC | FastAPI · React · TypeScript |
+| [**SIGMA**](https://github.com/alexandrealvesvalente222/sigma) | Inteligência fiscal — rastreabilidade de repasses e indicadores MROSC | FastAPI · React · TypeScript |
 | [**Geo Redes Escolas**](https://github.com/alexandrealvesvalente222/geo-redes-escolas) | Sistema WebGIS de geoprocessamento e visualização de redes escolares | Python · Flask · Leaflet |
 | [**Gov Hub**](https://github.com/alexandrealvesvalente222/gov-hub-main) | Hub de integração e serviços para gestão pública digital | TypeScript · React |
 | [**IntegraCidades**](https://github.com/alexandrealvesvalente222/integracidades) | Plataforma de integração de dados urbanos e indicadores municipais | Python · JavaScript |
